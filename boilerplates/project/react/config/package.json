@@ -69,7 +69,7 @@
     "redux-actions": "^2.0.3",
     "redux-auth-wrapper": "^2.0.0",
     "redux-nprogress": "^1.0.0",
-    "redux-saga": "^0.16.0",
+    "redux-saga": "^1.0.0",
     "reselect": "^4.0.0",
     "rework.less": "^1.0.0",
     "uuid": "^3.0.1"
