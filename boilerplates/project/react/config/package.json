@@ -59,7 +59,7 @@
     "react-native": "^0.58.0",
     "react-redux": "^6.0.0",
     "react-router": "^4.1.1",
-    "react-router-config": "^1.0.0-beta.3",
+    "react-router-config": "^4.0.0",
     "react-router-dom": "^4.1.1",
     "react-router-native": "^4.1.1",
     "react-router-redux": "^5.0.0-alpha.6",
