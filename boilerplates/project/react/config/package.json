@@ -83,7 +83,7 @@
     "babel-plugin-import": "1.11.0",
     "babel-plugin-lodash": "3.3.4",
     "babel-plugin-recharts": "1.2.0",
-    "babel-plugin-transform-react-remove-prop-types": "0.4.23",
+    "babel-plugin-transform-react-remove-prop-types": "0.4.24",
     "babel-preset-env": "1.7.0",
     "babel-preset-react": "6.24.1",
     "babel-preset-stage-2": "6.24.1",
