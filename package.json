@@ -55,7 +55,7 @@
     "del": "3.0.0",
     "gulp": "4.0.0",
     "gulp-babel": "8.0.0",
-    "jest": "24.0.0"
+    "jest": "24.9.0"
   },
   "babel": {
     "presets": [
